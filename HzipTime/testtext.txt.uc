@@ -1,0 +1,7 @@
+Reprinted with corrections from The Bell System Technical Journal,
+Vol. 27, pp. 379-423, 623-656, July, October, 1948.
+A Mathematical Theory of Communication
+By C. E. SHANNON
+INTRODUCTION
+THE recent development of various methods of modulation such as PCM and PPM which exchange bandwidth for signal-to-noise ratio has intensified the interest in a general theory of communication. A basis for such a theory is contained in the important papers of Nyquist 1 and Hartley 2 on this subject. In the present paper we will extend the theory to include a number of new factors, in particular the effect of noise in the channel, and the savings possible due to the statistical structure of the original message and due to the nature of the final destination of the information.
+The fundamental problem of communication is that of reproducing at one point either exactly or ap-proximately a message selected at another point. Frequently the messages have meaning; that is they refer to or are correlated according to some system with certain physical or conceptual entities. These semantic aspects of communication are irrelevant to the engineering problem. The significant aspect is that the actual message is one selected from a set of possible messages. The system must be designed to operate for each possible selection, not just the one which will actually be chosen since this is unknown at the time of design.

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/freeway.jar" sourcepath="lib/freeway.jar"/>
+	<classpathentry kind="lib" path="lib/abstract-cases.jar"/>
+	<classpathentry kind="output" path="out/production/Case3MockExchange"/>
+</classpath>

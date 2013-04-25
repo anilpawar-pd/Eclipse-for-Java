@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true">
+	<output-test url="file://$MODULE_DIR$/out/test/Case3MockExchange"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="freeway.jar" scope="COMPILE">
+		<srcroot url="jar://$MODULE_DIR$/lib/freeway.jar!/"/>
+		<relative-module-src project-related="jar://$PROJECT_DIR$/lib/freeway.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/freeway.jar!/"/>
+	</lib>
+	<lib name="abstract-cases.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/abstract-cases.jar!/"/>
+	</lib>
+</component>
